@@ -1,0 +1,10 @@
+node_modules
+*.log
+*.log*
+build
+dist
+.DS_Store
+.fusebox
+filters
+
+.idea
