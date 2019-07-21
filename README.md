@@ -39,13 +39,13 @@ $ npm run <command>
 
 | Command          | Description                                 |
 | ---------------- | ------------------------------------------- |
-| `build`          | Bundles Wexond's source in production mode. |
-| `compile-win32`  | Compiles Wexond binaries for Windows.       |
-| `compile-darwin` | Compiles Wexond binaries for macOS.         |
-| `compile-linux`  | Compiles Wexond binaries for Linux.         |
+| `build`          | Bundles the Browser's source in production mode. |
+| `compile-win32`  | Compiles the Browser binaries for Windows.       |
+| `compile-darwin` | Compiles the Browser binaries for macOS.         |
+| `compile-linux`  | Compiles the Browser binaries for Linux.         |
 | `lint`           | Lints code.                                 |
 | `lint-fix`       | Fixes eslint errors if any                  |
-| `start`          | Starts Wexond.                              |
-| `dev`            | Starts Wexond in the development mode       |
+| `start`          | Starts the Browser.                              |
+| `dev`            | Starts the Browser in the development mode       |
 
 > NOTE: `compile-win32` command will produce publishing errors at the end. Just ignore them.

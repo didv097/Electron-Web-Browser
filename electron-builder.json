@@ -1,6 +1,6 @@
 {
-  "appId": "org.wexond.wexond",
-  "productName": "Wexond",
+  "appId": "org.browser.browser",
+  "productName": "Browser",
 
   "nsis": {
     "include": "static/installer.nsh"
@@ -31,7 +31,7 @@
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Wexond",
+      "description": "Browser",
       "role": "Viewer",
       "ext": "html"
     }

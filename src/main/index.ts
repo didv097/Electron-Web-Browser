@@ -13,7 +13,7 @@ import { runAutoUpdaterService } from './services/auto-updater';
 
 export const log = require('electron-log');
 
-app.setPath('userData', resolve(homedir(), '.wexond'));
+app.setPath('userData', resolve(homedir(), '.browser'));
 log.transports.file.level = 'verbose';
 log.transports.file.file = resolve(app.getPath('userData'), 'log.log');
 
