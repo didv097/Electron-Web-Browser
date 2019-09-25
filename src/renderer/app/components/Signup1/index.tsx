@@ -32,7 +32,7 @@ export const Signup1 = observer(() => {
         <InsideContainer>
           <Title>Welcome!</Title>
           <InputContainer>
-            <Input placeholder="Email" onInput={store.signup.onEmailInput} />
+            <Input placeholder="Email " onInput={store.signup.onEmailInput} />
           </InputContainer>
           <InputContainer>
             <Input placeholder="Profile name" onInput={store.signup.onNameInput} />
