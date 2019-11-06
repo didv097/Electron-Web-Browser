@@ -25,27 +25,4 @@ The given command below will run the Browser in the development mode.
 $ npm run dev
 ```
 
-## Other commands
-
-You can also run other commands, for other tasks like building the app or linting the code, by using the commands described below.
-
-### Usage:
-
-```bash
-$ npm run <command>
-```
-
-#### List of available commands:
-
-| Command          | Description                                 |
-| ---------------- | ------------------------------------------- |
-| `build`          | Bundles the Browser's source in production mode. |
-| `compile-win32`  | Compiles the Browser binaries for Windows.       |
-| `compile-darwin` | Compiles the Browser binaries for macOS.         |
-| `compile-linux`  | Compiles the Browser binaries for Linux.         |
-| `lint`           | Lints code.                                 |
-| `lint-fix`       | Fixes eslint errors if any                  |
-| `start`          | Starts the Browser.                              |
-| `dev`            | Starts the Browser in the development mode       |
-
-> NOTE: `compile-win32` command will produce publishing errors at the end. Just ignore them.
+<img src="https://github.com/bran0/Electron-Web-Browser/blob/master/screenshot.png" />
