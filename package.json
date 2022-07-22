@@ -70,7 +70,7 @@
     "electron-extensions": "1.0.0",
     "electron-log": "3.0.5",
     "electron-updater": "4.0.6",
-    "file-type": "11.0.0",
+    "file-type": "16.5.4",
     "gsap": "2.1.2",
     "icojs": "0.12.3",
     "leveldown": "5.0.3",
